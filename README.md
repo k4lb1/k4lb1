@@ -10,6 +10,3 @@ __________________________________________________/___________________________
                1200/2400,PEP,V.32,V.42,V.42bis / 282-8609
                1200/2400,V.32bis,V.42,V.42bis / 282-8605 <Contributors Only>
 </pre>
-
-                   
-![](https://github-readme-stats.vercel.app/api?username=k4lb1&theme=dark&hide_border=true)
